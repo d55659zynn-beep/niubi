@@ -1,0 +1,16 @@
+{
+  "source": "sample",
+  "exportedAt": "2026-10-28T12:00:00",
+  "jobs": [
+    {
+      "id": "sample-001",
+      "company": "示例科技",
+      "title": "后端开发实习生",
+      "city": "北京",
+      "direction": "后端",
+      "deadline": "2026-11-30",
+      "description": "参与实习岗位接口开发。此条为示例数据，由电脑端脚本导出。",
+      "applyUrl": "https://example.com/apply/backend-intern"
+    }
+  ]
+}
